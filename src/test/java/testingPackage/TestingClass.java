@@ -18,12 +18,12 @@ public class TestingClass
 	        System.out.println("Test One: This test will PASS");
 	    }
 
-	    @Test
+	    /*@Test
 	    public void testTwo() 
 	    {
 	        System.out.println("Test Two: This test will FAIL");
 	        Assert.fail("Intentional failure for learning TestNG");
-	    }
+	    }*/
 
 	    @Test
 	    public void testThree() 
